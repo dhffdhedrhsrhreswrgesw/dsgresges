@@ -1,5 +1,5 @@
 function copyDiscord() {
-  const username = 'riccomiller0768';
+  const username = 'sypsetheone';
   const btn = document.getElementById('discordBtn');
   const original = 'Copy Discord →';
 
